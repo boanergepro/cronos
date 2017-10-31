@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  background-color: #FEFEFE	;
+}
+.App-header {
+  background-color: #222;
+  height: 20px;
+  padding: 10px;
+  color: white;
+}
+p{
+  margin-top: 0%; 
+}
+.List{
+	list-style: none;
+	margin-top: 5%;
+	background-color: #F44336;
+	font-size: 25px;
+	color: white;
+	width: 28%;
+	margin-left: 37%;
+	padding: 0%;
+}
