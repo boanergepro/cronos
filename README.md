@@ -1,1 +1,1 @@
-#Cronometro realizado usando la libreria react js.
+# Cronometro creado con la libreria React Js
